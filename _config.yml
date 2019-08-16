@@ -19,8 +19,8 @@ email: andrew@protocol.ai
 description: >- # this means to ignore newlines until "baseurl:"
   A research log of investigations into decentralized and peer-to-peer package management,
   supported by IPFS and Protocol Labs
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/ipfs-research-log" # the subpath of your site, e.g. /blog
+url: "https://andrew.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: teabass
 github_username:  andrew
 show_excerpts: true
